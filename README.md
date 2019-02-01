@@ -3,7 +3,7 @@
 ## SUPERHERO TEST
 In this test we convert numbers to words to a superman name.
 
-### Install ruby using [RVM](https://rvm.io/rvm/install
+### Install ruby using [RVM](https://rvm.io/rvm/install)
 
 ### Things done in this test
 
@@ -14,6 +14,10 @@ In this test we convert numbers to words to a superman name.
 3. Retrieve data from stored yml files for conversion
 
 ### Commands to run the code
+
+```
+    cd superhero
+```
 
 1. Make mapping and reverse mapping yml file
 ```
@@ -56,6 +60,10 @@ In this test we find the cheapest hotel from the dates and type given
 2. Retrieve data from stored js files for finding cheapest hotel
 
 ### Commands to run the code
+
+```
+    cd hotel_room_reservation
+```
 
 1. Install Node packages
 ```

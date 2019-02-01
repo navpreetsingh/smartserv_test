@@ -2,7 +2,7 @@
 
 In this test we convert numbers to words to a superman name.
 
-## Install ruby using [RVM](https://rvm.io/rvm/install
+## Install ruby using [RVM](https://rvm.io/rvm/install)
 
 ## Things done in this test
 
